@@ -5,6 +5,70 @@
   "author": "FUKUDA Sametarou",
   "cover": "https://i.imgur.com/WEOuiGC.png",
   "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "The Abandoned": "/proxy/api/imgur/chapter/pjLd9Zr/"
+      },
+      "last_updated": "1621465355"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/6NU9ohE/"
+      },
+      "last_updated": "1621465443"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/zRN1IK8/"
+      },
+      "last_updated": "1621465496"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/ByA4S1m/"
+      },
+      "last_updated": "1621465532"
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/ilqNePP/"
+      },
+      "last_updated": "1621465574"
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/j4jtq91/"
+      },
+      "last_updated": "1621465618"
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/00vmimF/"
+      },
+      "last_updated": "1621465681"
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "The Abandoned & Blooming Tea Scans": "/proxy/api/imgur/chapter/XcyH0Lq/"
+      },
+      "last_updated": "1621465718"
+    }
     "9": {
       "title": "Chapter 9",
       "volume": "2",
