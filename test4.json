@@ -6,7 +6,7 @@
   "chapters": {
     "1": {
       "title": "Chapter 1",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "SleepySlimeTL": "/proxy/api/imgur/chapter/cU9l1z6/"
       },
@@ -14,7 +14,7 @@
     },
     "2": {
       "title": "Chapter 2",
-      "volume": "",
+      "volume": "0",
       "groups": {
         "SleepySlimeTL": "/proxy/api/imgur/chapter/PqDL6m6/"
       },
