@@ -1,0 +1,49 @@
+{
+  "title": "Tamamo no Koi",
+  "description": "After I visited a Shinto Shrine just outside the town, a beast-eared girl came back to repay me!? A heartful comedy about a high school student, Haru,  who lived alone and the very caring Tamamo!",
+  "artist": "Mito",
+  "author": "Mito",
+  "cover": "https://i.imgur.com/ZjnPXK7.png",
+  "chapters": {
+    "0": {
+      "title": "Oneshot",
+      "volume": "1",
+      "groups": {
+        "AteTeenPlus & AfterLife Scans": "/proxy/api/imgur/chapter/QOBqS9y/"
+      },
+      "last_updated": "1621512307"
+    },
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/pyPgoDn/"
+      },
+      "last_updated": "1621512399"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/pmppgbb/"
+      },
+      "last_updated": "1621512462"
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/m6Ev68X/"
+      },
+      "last_updated": "1621512529"
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/QJOdlWK/"
+      },
+      "last_updated": "1621512575"
+    }
+  }
+}
