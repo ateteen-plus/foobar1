@@ -1,0 +1,497 @@
+{
+  "title": "Asebi and Adventurers of Sky World",
+  "description": "In this world, men live on islands floating in the clouds. But the heavens are also the domain of &quot;dragon fish&quot;, gigantic monsters hostile to humans and their ships ... Yuu is one of the guards responsible for protecting citizens from their attacks. In the company of Asebi, a young android, he decided to go on an adventure.",
+  "artist": "Umeki Taisuke",
+  "author": "Umeki Taisuke",
+  "cover": "https://i.imgur.com/gSj84Pr.png",
+  "chapters": {
+    "1": {
+      "title": "Asebi and Yuu",
+      "volume": "1",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/aTSHpBF/"
+      },
+      "last_updated": "1621555387"
+    },
+    "2": {
+      "title": "Asebi and sky danger",
+      "volume": "1",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/lE8R9YK/"
+      },
+      "last_updated": "1621555529"
+    },
+    "3": {
+      "title": "Asebi and sky wiseman",
+      "volume": "1",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/fNAPlnV/"
+      },
+      "last_updated": "1621555639"
+    },
+    "4": {
+      "title": "Yuu and Haito",
+      "volume": "1",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/YZgZm3v/"
+      },
+      "last_updated": "1621555725"
+    },
+    "5": {
+      "title": "Waldecia map and the gale guard",
+      "volume": "1",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/cY9eBSR/"
+      },
+      "last_updated": "1621555799"
+    },
+    "6": {
+      "title": "Bortus and adventurer will",
+      "volume": "2",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/tvYyJ47/"
+      },
+      "last_updated": "1621555955"
+    },
+    "7": {
+      "title": "Doubt and target",
+      "volume": "2",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/bGfYpGI/"
+      },
+      "last_updated": "1621556051"
+    },
+    "8": {
+      "title": "Tsukushi and Asebi",
+      "volume": "2",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/QFFe32H/"
+      },
+      "last_updated": "1621556149"
+    },
+    "9": {
+      "title": "Yuu and millionaire of sky world",
+      "volume": "2",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/vhKhhPB/"
+      },
+      "last_updated": "1621556226"
+    },
+    "10": {
+      "title": "Confrontation and another girl",
+      "volume": "2",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/W246mzF/"
+      },
+      "last_updated": "1621556344"
+    },
+    "11": {
+      "title": "Rage and spearhead",
+      "volume": "3",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Ghsi7hn/"
+      },
+      "last_updated": "1621556559"
+    },
+    "12": {
+      "title": "Threat and captured adventurer",
+      "volume": "3",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/qdroAPo/"
+      },
+      "last_updated": "1621556668"
+    },
+    "13": {
+      "title": "Yuu\u2019s counter-attack and ancient weapon",
+      "volume": "3",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/WLfVs1h/"
+      },
+      "last_updated": "1621556765"
+    },
+    "14": {
+      "title": "Confrontation and assault",
+      "volume": "3",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/ZQOGvJ7/"
+      },
+      "last_updated": "1621556939"
+    },
+    "15": {
+      "title": "Daria and Gram",
+      "volume": "3",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/HDBuXlW/"
+      },
+      "last_updated": "1621557016"
+    },
+    "16": {
+      "title": "Hope and wish",
+      "volume": "4",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/1LM7av8/"
+      },
+      "last_updated": "1621557161"
+    },
+    "17": {
+      "title": "Despair and scream",
+      "volume": "4",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/1y4xOSX/"
+      },
+      "last_updated": "1621557251"
+    },
+    "18": {
+      "title": "Asebi and Daria",
+      "volume": "4",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/vxFcdV3/"
+      },
+      "last_updated": "1621557362"
+    },
+    "19": {
+      "title": "Determination and curtain fall",
+      "volume": "4",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/33rS68V/"
+      },
+      "last_updated": "1621557417"
+    },
+    "19.5": {
+      "title": "Asebi and treasure of sky world",
+      "volume": "4",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/fSIxFcI/"
+      },
+      "last_updated": "1621557549"
+    },
+    "20": {
+      "title": "Yuu and Asebi",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/gxI5OJw/"
+      },
+      "last_updated": "1621557803"
+    },
+    "21": {
+      "title": "Low altitude territory and Waldecian ship",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/bXSKtDp/"
+      },
+      "last_updated": "1621557954"
+    },
+    "22": {
+      "title": "Yuri and licorice",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/gdY4wD0/"
+      },
+      "last_updated": "1621558018"
+    },
+    "23": {
+      "title": "Intrigue and adventurer of low altitude territory",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/oY0i8P5/"
+      },
+      "last_updated": "1621558170"
+    },
+    "24": {
+      "title": "Asebi and Yuri",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Rc7FVao/"
+      },
+      "last_updated": "1621558250"
+    },
+    "25": {
+      "title": "Crisis and friends",
+      "volume": "5",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/lBjf16T/"
+      },
+      "last_updated": "1621558433"
+    },
+    "26": {
+      "title": "Ancient ship and mysterious Licorice",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/CJzIZXe/"
+      },
+      "last_updated": "1621558507"
+    },
+    "27": {
+      "title": "Revival and Licorice\u2019s secret",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/0dMvqPP/"
+      },
+      "last_updated": "1621558686"
+    },
+    "28": {
+      "title": "Judgement and succession",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/VDs30Zn/"
+      },
+      "last_updated": "1621558822"
+    },
+    "29": {
+      "title": "New equipment and humanoid module",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/jeeEYUs/"
+      },
+      "last_updated": "1621558914"
+    },
+    "30": {
+      "title": "Licorice\u2019s island and an order",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/VViBNrz/"
+      },
+      "last_updated": "1621558999"
+    },
+    "31": {
+      "title": "Assassin and meeting",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Hx44QZX/"
+      },
+      "last_updated": "1621559088"
+    },
+    "32": {
+      "title": "Decision and battle start",
+      "volume": "6",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/GwMLAy1/"
+      },
+      "last_updated": "1621559151"
+    },
+    "33": {
+      "title": "Asebi and people of sky world",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/DfaWSNT/"
+      },
+      "last_updated": "1621559383"
+    },
+    "34": {
+      "title": "Confusion and punishment\u200b",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/teB9t1I/"
+      },
+      "last_updated": "1621559544"
+    },
+    "35": {
+      "title": "Battle and standard combat module",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/LjMqVct/"
+      },
+      "last_updated": "1621559629"
+    },
+    "36": {
+      "title": "Power and pride",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/dVEnlXy/"
+      },
+      "last_updated": "1621559780"
+    },
+    "37": {
+      "title": "Dahilia",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/STPRvj4/"
+      },
+      "last_updated": "1621559931"
+    },
+    "38": {
+      "title": "Tears and friends",
+      "volume": "7",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Q6UmSZP/"
+      },
+      "last_updated": "1621560120"
+    },
+    "39": {
+      "title": "Bonds and scheme",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/wEq29Ua/"
+      },
+      "last_updated": "1621560257"
+    },
+    "40": {
+      "title": "Adventurer and avenger",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/zNDZaiS/"
+      },
+      "last_updated": "1621560357"
+    },
+    "41": {
+      "title": "Yuu\u2019s objective and dual core system",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/SfRFIBM/"
+      },
+      "last_updated": "1621560542"
+    },
+    "42": {
+      "title": "Glen and Nazuna\u200b",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/e2qLffB/"
+      },
+      "last_updated": "1621560713"
+    },
+    "42.5": {
+      "title": "Asebi and airboarding",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/axhKVmB/"
+      },
+      "last_updated": "1621560810"
+    },
+    "43": {
+      "title": "Nazuna\u200b\u2018s struggle and Licorice\u2019s indecision\u200b",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/lqk8aBA/"
+      },
+      "last_updated": "1621560889"
+    },
+    "44": {
+      "title": "Storm and mysterious island",
+      "volume": "8",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Kvi7YE4/"
+      },
+      "last_updated": "1621561004"
+    },
+    "45": {
+      "title": "Memories and faces",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/tntPKA0/"
+      },
+      "last_updated": "1621561080"
+    },
+    "46": {
+      "title": "Shape of the enemy  and starting shot",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/7VH6kAb/"
+      },
+      "last_updated": "1621561197"
+    },
+    "47": {
+      "title": "Plan and strength",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/prauK96/"
+      },
+      "last_updated": "1621561499"
+    },
+    "48": {
+      "title": "Yuu and Nazuna\u2019s decision",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Rys65Ti/"
+      },
+      "last_updated": "1621561575"
+    },
+    "49": {
+      "title": "Cooperation and confrontation",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/V7tef8u/"
+      },
+      "last_updated": "1621561651"
+    },
+    "50": {
+      "title": "Determination and reality",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/ubT4enr/"
+      },
+      "last_updated": "1621561727"
+    },
+    "51": {
+      "title": "Betrayal and loss",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/xX0tnZz/"
+      },
+      "last_updated": "1621562037"
+    },
+    "52": {
+      "title": "Discouragement  and courage",
+      "volume": "9",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/blJpGVX/"
+      },
+      "last_updated": "1621562125"
+    },
+    "53": {
+      "title": "Interests and truth",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/q7TkOCj/"
+      },
+      "last_updated": "1621562212"
+    },
+    "54": {
+      "title": "Ayame and Kairi",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/jzWe7xz/"
+      },
+      "last_updated": "1621562299"
+    },
+    "55": {
+      "title": "Emperor and message",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/TsVUZm5/"
+      },
+      "last_updated": "1621562440"
+    },
+    "56": {
+      "title": "Gram and Aizen",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/jP8mk1V/"
+      },
+      "last_updated": "1621562521"
+    },
+    "57": {
+      "title": "Life and willpower",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/6C0dDLn/"
+      },
+      "last_updated": "1621562626"
+    },
+    "58": {
+      "title": "Yuu and the end of the journey",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/7RXsA8T/"
+      },
+      "last_updated": "1621562711"
+    },
+    "59": {
+      "title": "Asebi and...",
+      "volume": "10",
+      "groups": {
+        "hidamari": "/proxy/api/imgur/chapter/Mhd7Ogi/"
+      },
+      "last_updated": "1621562816"
+    }
+  }
+}
