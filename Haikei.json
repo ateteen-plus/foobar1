@@ -1,6 +1,6 @@
 {
-  "title": "Haikei... Koroshiya-san to Kekkon Shimashita",
-  "description": "[u][b]English[/b][/u]",
+  "title": "My Lovey-Dovey Wife is a Stone Cold Killer",
+  "description": "Meet Setsuna, She's cute, sexy, and deadly. When she's not out murdering people as a professional assassin, she's nesting at home, trying to adjust to a domestic life with her new husband. She skewers ingredients for dinner, draws a knife on unwanted solicitors, and sleeps with one eye open, just in case enemies sneak in. Her lovestruck husband doesn't ask her a lot of questions about her day job, so this arragement can work if love conquers all, right? This romantic comedy is dangerously sexy!",
   "artist": "Kousaka Donten",
   "author": "Kousaka Donten",
   "cover": "https://i.imgur.com/KY5RB3o.png",
@@ -132,6 +132,22 @@
         "No Group Scanlation": "/proxy/api/imgur/chapter/sPlnswP/"
       },
       "last_updated": 1614134309
+    },
+    "17": {
+      "title": "Chapter 17",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/fqROhDl/"
+      },
+      "last_updated": 1618465710
+    },
+    "18": {
+      "title": "Chapter 18",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/QDMufro/"
+      },
+      "last_updated": 1620310393
     }
   }
 }
