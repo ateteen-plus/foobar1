@@ -212,6 +212,14 @@
         "No Group Scanlation": "/proxy/api/imgur/chapter/WVXJflB/"
       },
       "last_updated": 1612180978
+    },
+	    "24": {
+      "title": "Chapter 24",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/Z9E54d1/"
+      },
+      "last_updated": 1620310448
     }
   }
 }
