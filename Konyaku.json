@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/Nl26mts.png",
   "chapters": {
     "1": {
-      "title": "Chapter 1 (TA)",
+      "title": "Chapter 1",
       "volume": "1",
       "groups": {
         "The Abandoned": "/proxy/api/imgur/chapter/pjLd9Zr/"
@@ -14,7 +14,7 @@
       "last_updated": "1621465355"
     },
     "1.0": {
-      "title": "Chapter 1 (BTS)",
+      "title": "Chapter 1",
       "volume": "1",
       "groups": {
         "Blooming Tea Scans": "/proxy/api/imgur/chapter/zH1QeQf/"
