@@ -1,0 +1,49 @@
+{
+  "title": "Hiyori-chan no Onegai wa Zettai",
+  "description": "Kadokawa synopsis:",
+  "artist": "Arima Tsukasa",
+  "author": "Misaki Saginomiya",
+  "chapters": {
+    "1": {
+      "title": "Confession",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation & SleepySlimeTL": "/proxy/api/imgur/chapter/Rx1OWgO/"
+      },
+      "last_updated": 1608600732
+    },
+    "2": {
+      "title": "Girlfriend",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation & SleepySlimeTL": "/proxy/api/imgur/chapter/yg08IFK/"
+      },
+      "last_updated": 1609326772
+    },
+    "3": {
+      "title": "Truth",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation & SleepySlimeTL": "/proxy/api/imgur/chapter/zShR6jo/"
+      },
+      "last_updated": 1610362252
+    },
+    "4": {
+      "title": "At Hiyori's Hometown",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/PPQYObr/"
+      },
+      "last_updated": 1612020650
+    },
+    "5": {
+      "title": "The Distance Between Us",
+      "volume": "1",
+      "groups": {
+        "No Group Scanlation": "/proxy/api/imgur/chapter/au0hlN0/"
+      },
+      "last_updated": 1615128782
+    }
+  },
+  "cover": "https://i.imgur.com/ocXt30I.png"
+}
