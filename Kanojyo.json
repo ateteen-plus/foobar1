@@ -1,0 +1,89 @@
+{
+  "title": "Kanojyo to Himitsu to Koimoyou",
+  "description": "A yuri comedy between two girls who seem different but are actually quite similar, each with a secret of her own.",
+  "artist": "TO Moe",
+  "author": "TO Moe",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/IEIlYGR/"
+      },
+      "last_updated": 1611551153
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/TCMS1Xv/"
+      },
+      "last_updated": 1612136114
+    },
+    "3": {
+      "title": "Chapter 3",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/vZAzbvs/"
+      },
+      "last_updated": 1612655891
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/FDm8wu1/"
+      },
+      "last_updated": 1613265980
+    },
+    "5": {
+      "title": "Chapter 5",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/hdg4HI8/"
+      },
+      "last_updated": 1613331860
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/mpnz6b3/"
+      },
+      "last_updated": 1614022573
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/iaVda72/"
+      },
+      "last_updated": 1614050962
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/lgW0KL5/"
+      },
+      "last_updated": 1614466515
+    },
+    "8.5": {
+      "title": "Chapter 8.5",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/KSDunJF/"
+      },
+      "last_updated": 1615152331
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "1",
+      "groups": {
+        "goon squad": "/proxy/api/imgur/chapter/m2H0egw/"
+      },
+      "last_updated": 1615745560
+    }
+  },
+  "cover": "https://i.imgur.com/0kcWbtA.png"
+}
