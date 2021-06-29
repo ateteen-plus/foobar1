@@ -92,13 +92,21 @@
       },
       "last_updated": "1621506729"
     },
-    "6.1": {
-      "title": "The Immoral Witch (1)",
+    "6": {
+      "title": "The Immoral Witch",
       "volume": "2",
       "groups": {
         "AteTeenPlus & No Group Scanlation": "/proxy/api/imgur/chapter/yWK266A/"
       },
       "last_updated": "1622496800"
+    },
+    "7.1": {
+      "title": "Restarting our relationship",
+      "volume": "2",
+      "groups": {
+        "AteTeenPlus & No Group Scanlation": "/proxy/api/imgur/chapter/ekwAgSJ/"
+      },
+      "last_updated": "1624961592"
     }
   },
   "cover": "https://i.imgur.com/4ZuAKxJ.png"
