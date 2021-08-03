@@ -1,1 +1,16 @@
-
+{
+  "title": "Alma-chan Wants to Be a Family",
+  "description": "An at-home (?!) comedy about two genius scientists and "Alma," the girl humanoid combat-made weapon they created, where the two adult scientists are being continually challenged by Alma-chan's sincere and straightforward questions and analyses!",
+  "artist": "Nanateru",
+  "author": "Nanateru",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "SleepySlimeTL": "/proxy/api/imgur/chapter/ClOFetE/"
+      },
+      "last_updated": 1627981622
+    }
+  "cover": "https://pbs.twimg.com/media/E5FBxydVcAIs1Dc.png"
+}
