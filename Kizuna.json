@@ -1,1 +1,18 @@
 
+{
+  "title": "Kizuna Monogatari",
+  "description": "Luna, a princess of the Cosmonaut Kingdom who lost her sister when she was little, only opens her heart up to her best friend. But now that her best friend has gone missing, she runs away in hopes of never losing another loved one again.",
+  "artist": "Kihagi Kyou",
+  "author": "Kihagi Kyou",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "SleepySlimeTL": "/proxy/api/imgur/chapter/ib1yUxS/"
+      },
+      "last_updated": 1634105113
+    }
+  },
+  "cover": "https://uploads.mangadex.org//covers/44ae2f6a-7d79-4784-8934-81df9c26ca35/d049a9a8-74a0-4a71-a088-c2a1d2783b4d.png"
+}
